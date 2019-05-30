@@ -2,4 +2,8 @@ File1.txt
 Text for Branch1
 
 changes made from the browers via github.com
+<<<<<<< HEAD
 changes made via Visual Studio Code
+=======
+additional changes made from the browers via github.com
+>>>>>>> dfdb038dc45d4c2d55136dbb8e99024058411d65
